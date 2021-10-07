@@ -9,7 +9,7 @@
 <a href="https://www.facebook.com/haris.hindic2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="haris.hindic" height="25" width="40" /></a>
 </p>
 
-<hr><br/>
+<hr>
 <h3 align="left">⚡Languages and Tools:</h3><br>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
