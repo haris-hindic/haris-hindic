@@ -5,7 +5,7 @@
 <h3 align="left">💌 Connect with me:</h3>
 </a>
 <a href="https://linkedin.com/in/haris-hindi%C4%87-54b620219" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white width="90" height="45" alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white width="90" height="25" alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 <hr>
