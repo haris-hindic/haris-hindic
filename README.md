@@ -26,7 +26,10 @@
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="git" width="30" height="30"/> 
 </p>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haris-hindic&color=blueviolet&style=flat-square" alt="haris-hindic" /> </p>
+</a>
+<a href="https://linkedin.com/in/haris-hindi%C4%87-54b620219" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 
 <!-- 📊 My Github Stats
