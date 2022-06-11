@@ -3,9 +3,10 @@
 
 
 <h3 align="left">💌 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/haris-hindić-54b620219" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="haris-hindić-54b620219" height="25" width="40" /></a>
-</p>
+</a>
+<a href="https://linkedin.com/in/haris-hindi%C4%87-54b620219" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 <hr>
 <h3 align="left">⚡Languages and Tools:</h3><br>
@@ -26,11 +27,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="git" width="30" height="30"/> 
 </p>
 <br/>
-</a>
-<a href="https://linkedin.com/in/haris-hindi%C4%87-54b620219" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haris-hindic&color=blueviolet&style=flat-square" alt="haris-hindic" /> </p>
 
 <!-- 📊 My Github Stats
 <hr>
