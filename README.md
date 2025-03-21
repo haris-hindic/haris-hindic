@@ -1,7 +1,7 @@
 
 <h1 align="left">Software engineer</h1>
 
-<h3 align="left">I am a Software Engineer with a Bachelor of Science in Software Engineering from the Faculty of Information Technologies, ‘Džemal Bijedić’ University of Mostar, and 3 years of professional experience in developing and supporting robust enterprise applications. My expertise lies in designing and building scalable backend systems using Java (Spring Boot) and PostgreSQL. Additionally, through my work with Angular, I have gained proficiency in frontend development, allowing me to contribute effectively to full-stack solutions. My academic background and hands-on experience have equipped me with a strong foundation in software engineering principles, enabling me to deliver high-quality, efficient, and maintainable solutions.</h3>
+<h3 align="left">I am a Software Engineer with a Bachelor of Science in Software Engineering from the Faculty of Information Technologies, ‘Džemal Bijedić’ University of Mostar, and 3 years of professional experience in developing and supporting robust enterprise applications. My expertise lies in designing and building scalable backend systems using Java (Spring Boot) and PostgreSQL. Additionally, through my work with Angular, I have gained proficiency in frontend development, allowing me to contribute effectively to full-stack solutions.</h3>
 
 <h3 align="left">💌 Connect with me:</h3>
 </a>
